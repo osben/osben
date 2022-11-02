@@ -18,4 +18,4 @@ I am an enthusiastic and dedicated professional with extensive experience across
 [github]: https://github.com/osben
 [gitlab]: https://gitlab.com/osben
 [linkedin]: https://linkedin.com/in/osben
-[telegram]: https://linkedin.com/in/osben
+[telegram]: https://t.me/osben90
